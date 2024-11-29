@@ -1,117 +1,83 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/netbox-community/netbox/develop/docs/netbox_logo_light.svg" width="400" alt="NetBox logo" />
-  <p><strong>The cornerstone of every automated network</strong></p>
-  <a href="https://github.com/netbox-community/netbox/releases"><img src="https://img.shields.io/github/v/release/netbox-community/netbox" alt="Latest release" /></a>
-  <a href="https://github.com/netbox-community/netbox/blob/master/LICENSE.txt"><img src="https://img.shields.io/badge/license-Apache_2.0-blue.svg" alt="License" /></a>
-  <a href="https://github.com/netbox-community/netbox/graphs/contributors"><img src="https://img.shields.io/github/contributors/netbox-community/netbox?color=blue" alt="Contributors" /></a>
-  <a href="https://github.com/netbox-community/netbox/stargazers"><img src="https://img.shields.io/github/stars/netbox-community/netbox?style=flat" alt="GitHub stars" /></a>
-  <a href="https://explore.transifex.com/netbox-community/netbox/"><img src="https://img.shields.io/badge/languages-15-blue" alt="Languages supported" /></a>
-  <a href="https://github.com/netbox-community/netbox/actions/workflows/ci.yml"><img src="https://github.com/netbox-community/netbox/workflows/CI/badge.svg?branch=master" alt="CI status" /></a>
-  <p>
-    <strong><a href="https://github.com/netbox-community/netbox/">NetBox Community</a></strong> |
-    <strong><a href="https://netboxlabs.com/netbox-cloud/">NetBox Cloud</a></strong> |
-    <strong><a href="https://netboxlabs.com/netbox-enterprise/">NetBox Enterprise</a></strong>
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/netbox-community/netbox/develop/docs/netbox_logo_light.svg"><img src="https://raw.githubusercontent.com/netbox-community/netbox/develop/docs/netbox_logo_light.svg" width="400" alt="NetBox 徽标" style="max-width: 100%;" _mstalt="155974" _msthash="291"></a>
+  <p dir="auto"><strong _msttexthash="41149823" _msthash="292">每个自动化网络的基石</strong></p>
+  <a href="https://github.com/netbox-community/netbox/releases"><img src="https://camo.githubusercontent.com/a2094d801fc2f5a23452fd5ffbe9be1ca1c80469ed5c8c643908606356b93619/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f6e6574626f782d636f6d6d756e6974792f6e6574626f78" alt="最新版本" data-canonical-src="https://img.shields.io/github/v/release/netbox-community/netbox" style="max-width: 100%;" _mstalt="231257" _msthash="293"></a>
+  <a href="https://github.com/netbox-community/netbox/blob/master/LICENSE.txt"><img src="https://camo.githubusercontent.com/2ed0a52f5bf573d87e32faac49e6a4d89b1c97554214d35c24e2956f8778be77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4170616368655f322e302d626c75652e737667" alt="许可证" data-canonical-src="https://img.shields.io/badge/license-Apache_2.0-blue.svg" style="max-width: 100%;" _mstalt="93288" _msthash="294"></a>
+  <a href="https://github.com/netbox-community/netbox/graphs/contributors"><img src="https://camo.githubusercontent.com/76dd7d1d9dd0569febd23e12d58efb12807189171dcd2445e429748bb23aff34/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f6e6574626f782d636f6d6d756e6974792f6e6574626f783f636f6c6f723d626c7565" alt="贡献" data-canonical-src="https://img.shields.io/github/contributors/netbox-community/netbox?color=blue" style="max-width: 100%;" _mstalt="213941" _msthash="295"></a>
+  <a href="https://github.com/netbox-community/netbox/stargazers"><img src="https://camo.githubusercontent.com/1eea63a11bd69418278b29ac87a7b7dd6aebf430346913c66bdae6ba454f44fe/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6e6574626f782d636f6d6d756e6974792f6e6574626f783f7374796c653d666c6174" alt="GitHub 星标" data-canonical-src="https://img.shields.io/github/stars/netbox-community/netbox?style=flat" style="max-width: 100%;" _mstalt="180921" _msthash="296"></a>
+  <a href="https://explore.transifex.com/netbox-community/netbox/" rel="nofollow"><img src="https://camo.githubusercontent.com/7cba68af6988bec556b8b60c2abcf41b5ab1574cd2af46b96df60784f1a14638/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e6775616765732d31352d626c7565" alt="支持的语言" data-canonical-src="https://img.shields.io/badge/languages-15-blue" style="max-width: 100%;" _mstalt="391547" _msthash="297"></a>
+  <a href="https://github.com/netbox-community/netbox/actions/workflows/ci.yml"><img src="https://github.com/netbox-community/netbox/workflows/CI/badge.svg?branch=master" alt="CI 状态" style="max-width: 100%;" _mstalt="114894" _msthash="298"></a>
+  <p dir="auto">
+    <font _mstmutation="1" _msttexthash="43475653" _msthash="299"><strong _mstmutation="1" _istranslated="1"><a href="https://github.com/netbox-community/netbox/" _istranslated="1">NetBox 社区</a></strong> |<strong _mstmutation="1" _istranslated="1"><a href="https://netboxlabs.com/netbox-cloud/" rel="nofollow" _istranslated="1">NetBox 云</a></strong> |<strong _mstmutation="1" _istranslated="1"><a href="https://netboxlabs.com/netbox-enterprise/" rel="nofollow" _istranslated="1">NetBox 企业版</a></strong></font>
   </p>
 </div>
-
-NetBox exists to empower network engineers. Since its release in 2016, it has become the go-to solution for modeling and documenting network infrastructure for thousands of organizations worldwide. As a successor to legacy IPAM and DCIM applications, NetBox provides a cohesive, extensive, and accessible data model for all things networked. By providing a single robust user interface and programmable APIs for everything from cable maps to device configurations, NetBox serves as the central source of truth for the modern network.
-
-<p align="center">
-  <a href="#netboxs-role">NetBox's Role</a> |
-  <a href="#why-netbox">Why NetBox?</a> |
-  <a href="#getting-started">Getting Started</a> |
-  <a href="#get-involved">Get Involved</a> |
-  <a href="#screenshots">Screenshots</a>
+<p dir="auto" _msttexthash="5108534730" _msthash="300">NetBox 的存在是为了增强网络工程师的能力。自 2016 年发布以来，它已成为全球数千家组织对网络基础设施进行建模和记录的首选解决方案。作为传统 IPAM 和 DCIM 应用程序的继任者，NetBox 为所有联网事物提供了一个有凝聚力、广泛且可访问的数据模型。通过为从电缆映射到设备配置的所有内容提供单一强大的用户界面和可编程 API，NetBox 成为现代网络的中央事实来源。</p>
+<p align="center" dir="auto">
+  <font _mstmutation="1" _msttexthash="177363043" _msthash="301"><a href="#netboxs-role" _mstmutation="1" _istranslated="1">NetBox 的角色</a> |<a href="#why-netbox" _mstmutation="1" _istranslated="1">为什么选择 NetBox？</a>|<a href="#getting-started" _mstmutation="1" _istranslated="1">开始</a> |<a href="#get-involved" _mstmutation="1" _istranslated="1">参与其中</a> |<a href="#screenshots" _mstmutation="1" _istranslated="1">屏幕截图</a></font>
 </p>
-
-<p align="center">
-  <img src="docs/media/screenshots/home-light.png" width="600" alt="NetBox user interface screenshot" />
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/netbox-community/netbox/blob/develop/docs/media/screenshots/home-light.png"><img src="/netbox-community/netbox/raw/develop/docs/media/screenshots/home-light.png" width="600" alt="NetBox 用户界面屏幕截图" style="max-width: 100%;" _mstalt="846534" _msthash="302"></a>
 </p>
-
-## NetBox's Role
-
-NetBox functions as the **source of truth** for your network infrastructure. Its job is to define and validate the _intended state_ of all network components and resources. NetBox does not interact with network nodes directly; rather, it makes this data available programmatically to purpose-built automation, monitoring, and assurance tools. This separation of duties enables the construction of a robust yet flexible automation system.
-
-<p align="center">
-  <img src="docs/media/misc/reference_architecture.png" alt="Reference network automation architecture" />
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="18134961" _msthash="303">NetBox 的角色</h2><a id="user-content-netboxs-role" class="anchor" aria-label="永久链接：NetBox 的角色" href="#netboxs-role" _mstaria-label="484393" _msthash="304"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="2686810490" _msthash="305">NetBox 是网络基础设施的事实<strong _istranslated="1">来源</strong>。它的工作是定义和验证所有网络组件和资源<em _istranslated="1">的预期状态</em>。NetBox 不直接与网络节点交互;相反，它以编程方式将这些数据提供给专门构建的自动化、监控和保障工具。这种职责分离使构建一个强大而灵活的自动化系统成为可能。</p>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/netbox-community/netbox/blob/develop/docs/media/misc/reference_architecture.png"><img src="/netbox-community/netbox/raw/develop/docs/media/misc/reference_architecture.png" alt="参考网络自动化架构" style="max-width: 100%;" _mstalt="1356602" _msthash="306"></a>
 </p>
-
-The diagram above illustrates the recommended deployment architecture for an automated network, leveraging NetBox as the central authority for network state. This approach allows your team to swap out individual tools to meet changing needs while retaining a predictable, modular workflow.
-
-## Why NetBox?
-
-### Comprehensive Data Model
-
-Racks, devices, cables, IP addresses, VLANs, circuits, power, VPNs, and lots more: NetBox is built for networks. Its comprehensive and thoroughly inter-linked data model provides for natural and highly structured modeling of myriad network primitives that just isn't possible using general-purpose tools. And there's no need to waste time contemplating how to build out a database: Everything is ready to go upon installation.
-
-### Focused Development
-
-NetBox strives to meet a singular goal: Provide the best available solution for making network infrastructure programmatically accessible. Unlike "all-in-one" tools which awkwardly bolt on half-baked features in an attempt to check every box, NetBox is committed to its core function. NetBox provides the best possible solution for modeling network infrastructure, and provides rich APIs for integrating with tools that excel in other areas of network automation.
-
-### Extensible and Customizable
-
-No two networks are exactly the same. Users are empowered to extend NetBox's native data model with custom fields and tags to best suit their unique needs. You can even write your own plugins to introduce entirely new objects and functionality!
-
-### Flexible Permissions
-
-NetBox includes a fully customizable permission system, which affords administrators incredible granularity when assigning roles to users and groups. Want to restrict certain users to working only with cabling and not be able to change IP addresses? Or maybe each team should have access only to a particular tenant? NetBox enables you to craft roles as you see fit.
-
-### Custom Validation & Protection Rules
-
-The data you put into NetBox is crucial to network operations. In addition to its robust native validation rules, NetBox provides mechanisms for administrators to define their own custom validation rules for objects. Custom validation can be used both to ensure new or modified objects adhere to a set of rules, and to prevent the deletion of objects which don't meet certain criteria. (For example, you might want to prevent the deletion of a device with an "active" status.)
-
-### Device Configuration Rendering
-
-NetBox can render user-created Jinja2 templates to generate device configurations from its own data. Configuration templates can be uploaded individually or pulled automatically from an external source, such as a git repository. Rendered configurations can be retrieved via the REST API for application directly to network devices via a provisioning tool such as Ansible or Salt.
-
-### Custom Scripts
-
-Complex workflows, such as provisioning a new branch office, can be tedious to carry out via the user interface. NetBox allows you to write and upload custom scripts that can be run directly from the UI. Scripts prompt users for input and then automate the necessary tasks to greatly simplify otherwise burdensome processes.
-
-### Automated Events
-
-Users can define event rules to automatically trigger a custom script or outbound webhook in response to a NetBox event. For example, you might want to automatically update a network monitoring service whenever a new device is added to NetBox, or update a DHCP server when an IP range is allocated.
-
-### Comprehensive Change Logging
-
-NetBox automatically logs the creation, modification, and deletion of all managed objects, providing a thorough change history. Changes can be attributed to the executing user, and related changes are grouped automatically by request ID.
-
-> [!NOTE]
-> A complete list of NetBox's myriad features can be found in [the introductory documentation](https://docs.netbox.dev/en/stable/introduction/).
-
-## Getting Started
-
-* Just want to explore? Check out [our public demo](https://demo.netbox.dev/) right now!
-* The [official documentation](https://docs.netbox.dev) offers a comprehensive introduction.
-* Check out [our wiki](https://github.com/netbox-community/netbox/wiki/Community-Contributions) for even more projects to get the most out of NetBox!
-
-## Get Involved
-
-* Follow [@NetBoxOfficial](https://twitter.com/NetBoxOfficial) on Twitter!
-* Join the conversation on [the discussion forum](https://github.com/netbox-community/netbox/discussions) and [Slack](https://netdev.chat/)!
-* Already a power user? You can [suggest a feature](https://github.com/netbox-community/netbox/issues/new?assignees=&labels=type%3A+feature&template=feature_request.yaml) or [report a bug](https://github.com/netbox-community/netbox/issues/new?assignees=&labels=type%3A+bug&template=bug_report.yaml) on GitHub.
-* Contributions from the community are encouraged and appreciated! Check out our [contributing guide](CONTRIBUTING.md) to get started.
-* [Share your idea](https://plugin-ideas.netbox.dev/) for a new plugin, or [learn how to build one](https://github.com/netbox-community/netbox-plugin-tutorial) yourself!
-
-## Screenshots
-
-<p align="center">
-  <strong>NetBox Dashboard (Light Mode)</strong><br />
-  <img src="docs/media/screenshots/home-light.png" width="600" alt="NetBox dashboard (light mode)" />
+<p dir="auto" _msttexthash="1280405204" _msthash="307">上图说明了自动化网络的推荐部署架构，利用 NetBox 作为网络状态的中央机构。这种方法允许您的团队更换单个工具以满足不断变化的需求，同时保留可预测的模块化工作流程。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="30073680" _msthash="308">为什么选择 NetBox？</h2><a id="user-content-why-netbox" class="anchor" aria-label="永久链接：为什么选择 NetBox？" href="#why-netbox" _mstaria-label="415844" _msthash="309"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="24518221" _msthash="310">全面的数据模型</h3><a id="user-content-comprehensive-data-model" class="anchor" aria-label="永久链接：综合数据模型" href="#comprehensive-data-model" _mstaria-label="947401" _msthash="311"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="2761713968" _msthash="312">机架、设备、电缆、IP 地址、VLAN、电路、电源、VPN 等等：NetBox 专为网络而构建。其全面且完全相互关联的数据模型为无数网络基元提供了自然和高度结构化的建模，而这使用通用工具是不可能的。无需浪费时间考虑如何构建数据库：安装后一切准备就绪。</p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="10353187" _msthash="313">专注开发</h3><a id="user-content-focused-development" class="anchor" aria-label="永久链接：专注开发" href="#focused-development" _mstaria-label="771823" _msthash="314"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="2623686832" _msthash="315">NetBox 致力于实现一个单一目标：提供最佳解决方案，使网络基础设施能够以编程方式访问。与“一体化”工具不同，NetBox 致力于其核心功能。NetBox 为网络基础设施建模提供了最佳解决方案，并提供了丰富的 API，用于与网络自动化其他领域的出色工具集成。</p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="20442253" _msthash="316">可扩展和可定制</h3><a id="user-content-extensible-and-customizable" class="anchor" aria-label="永久链接：可扩展和可定制" href="#extensible-and-customizable" _mstaria-label="1135823" _msthash="317"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="1244662250" _msthash="318">没有两个网络是完全相同的。用户可以使用自定义字段和标签来扩展 NetBox 的原生数据模型，以最好地满足其独特需求。您甚至可以编写自己的插件来引入全新的对象和功能！</p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="18016921" _msthash="319">灵活的权限</h3><a id="user-content-flexible-permissions" class="anchor" aria-label="永久链接：灵活的权限" href="#flexible-permissions" _mstaria-label="826943" _msthash="320"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="2562331369" _msthash="321">NetBox 包括一个完全可定制的权限系统，在为用户和组分配角色时，它为管理员提供了难以置信的粒度。想要限制某些用户只能使用布线，而不能更改 IP 地址？或者，也许每个团队都应该只有权访问特定的租户？NetBox 使您能够根据需要创建角色。</p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="40745835" _msthash="322">自定义验证和保护规则</h3><a id="user-content-custom-validation--protection-rules" class="anchor" aria-label="永久链接：自定义验证和保护规则" href="#custom-validation--protection-rules" _mstaria-label="1799967" _msthash="323"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="3477958744" _msthash="324">您放入 NetBox 的数据对于网络运营至关重要。除了强大的本机验证规则外，NetBox 还为管理员提供了为对象定义自己的自定义验证规则的机制。自定义验证可用于确保新对象或修改的对象符合一组规则，并防止删除不符合特定条件的对象。（例如，您可能希望阻止删除状态为“活动”的设备。</p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="22398961" _msthash="325">设备配置渲染</h3><a id="user-content-device-configuration-rendering" class="anchor" aria-label="永久链接：设备配置渲染" href="#device-configuration-rendering" _mstaria-label="1300052" _msthash="326"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="2050113481" _msthash="327">NetBox 可以呈现用户创建的 Jinja2 模板，以从自己的数据生成设备配置。配置模板可以单独上传，也可以从外部源（如 git 存储库）自动提取。渲染的配置可以通过 REST API for application 通过 Ansible 或 Salt 等预置工具直接检索到网络设备。</p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="15883491" _msthash="328">自定义脚本</h3><a id="user-content-custom-scripts" class="anchor" aria-label="永久链接：自定义脚本" href="#custom-scripts" _mstaria-label="562068" _msthash="329"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="1785432740" _msthash="330">通过用户界面执行复杂的工作流程（例如配置新的分支机构）可能很繁琐。NetBox 允许您编写和上传可直接从 UI 运行的自定义脚本。脚本提示用户输入，然后自动执行必要的任务，以大大简化原本繁琐的流程。</p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="13220220" _msthash="331">自动化事件</h3><a id="user-content-automated-events" class="anchor" aria-label="永久链接：自动事件" href="#automated-events" _mstaria-label="636714" _msthash="332"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="1312505792" _msthash="333">用户可以定义事件规则以自动触发自定义脚本或出站 Webhook 以响应 NetBox 事件。例如，您可能希望在将新设备添加到 NetBox 时自动更新网络监控服务，或者在分配 IP 范围时更新 DHCP 服务器。</p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="36091445" _msthash="334">全面的更改日志记录</h3><a id="user-content-comprehensive-change-logging" class="anchor" aria-label="永久链接：全面的更改日志记录" href="#comprehensive-change-logging" _mstaria-label="1167244" _msthash="335"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="911024725" _msthash="336">NetBox 会自动记录所有托管对象的创建、修改和删除，从而提供完整的更改历史记录。更改可归因于执行用户，并且相关更改会按请求 ID 自动分组。</p>
+<div class="markdown-alert markdown-alert-note" dir="auto"><p class="markdown-alert-title" dir="auto"><svg class="octicon octicon-info mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg><font _mstmutation="1" _msttexthash="5121168" _msthash="337">注意</font></p><p dir="auto" _msttexthash="160779073" _msthash="338">NetBox 的众多功能的完整列表可以在<a href="https://docs.netbox.dev/en/stable/introduction/" rel="nofollow" _istranslated="1">介绍性文档</a>中找到。</p>
+</div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="4603768" _msthash="339">开始</h2><a id="user-content-getting-started" class="anchor" aria-label="永久链接： 开始使用" href="#getting-started" _mstaria-label="591461" _msthash="340"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="121649060" _msthash="341">只想探索一下？立即查看<a href="https://demo.netbox.dev/" rel="nofollow" _istranslated="1">我们的公开演示</a>！</li>
+<li _msttexthash="54337192" _msthash="342"><a href="https://docs.netbox.dev" rel="nofollow" _istranslated="1">官方文档</a>提供了全面的介绍。</li>
+<li _msttexthash="151976396" _msthash="343">查看<a href="https://github.com/netbox-community/netbox/wiki/Community-Contributions" _istranslated="1">我们的 wiki</a> 以获取更多项目，以充分利用 NetBox！</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="9070958" _msthash="344">参与其中</h2><a id="user-content-get-involved" class="anchor" aria-label="永久链接： 参与其中" href="#get-involved" _mstaria-label="471913" _msthash="345"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="45017089" _msthash="346">在 Twitter 上关注<a href="https://twitter.com/NetBoxOfficial" rel="nofollow" _istranslated="1">@NetBoxOfficial</a>！</li>
+<li _msttexthash="28796768" _msthash="347">加入<a href="https://github.com/netbox-community/netbox/discussions" _istranslated="1">论坛</a>和 <a href="https://netdev.chat/" rel="nofollow" _istranslated="1">Slack</a>！</li>
+<li _msttexthash="140619661" _msthash="348">已经是高级用户？您可以在 GitHub 上<a href="https://github.com/netbox-community/netbox/issues/new?assignees=&amp;labels=type%3A+feature&amp;template=feature_request.yaml" _istranslated="1">建议功能</a>或<a href="https://github.com/netbox-community/netbox/issues/new?assignees=&amp;labels=type%3A+bug&amp;template=bug_report.yaml" _istranslated="1">报告 bug</a>。</li>
+<li _msttexthash="201483633" _msthash="349">我们鼓励和感谢社区的贡献！查看我们的<a href="/netbox-community/netbox/blob/develop/CONTRIBUTING.md" _istranslated="1">贡献指南</a>以开始使用。</li>
+<li _msttexthash="153789532" _msthash="350"><a href="https://plugin-ideas.netbox.dev/" rel="nofollow" _istranslated="1">分享您对</a>新插件的想法，或<a href="https://github.com/netbox-community/netbox-plugin-tutorial" _istranslated="1">学习如何自己构建一个</a>！</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="10497227" _msthash="351">屏幕截图</h2><a id="user-content-screenshots" class="anchor" aria-label="永久链接： 屏幕截图" href="#screenshots" _mstaria-label="484146" _msthash="352"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto">
+  <strong _msttexthash="73448323" _msthash="354">NetBox 仪表板（浅色模式）</strong><br>
+  <a target="_blank" rel="noopener noreferrer" href="/netbox-community/netbox/blob/develop/docs/media/screenshots/home-light.png"><img src="/netbox-community/netbox/raw/develop/docs/media/screenshots/home-light.png" width="600" alt="NetBox 仪表板（浅色模式）" style="max-width: 100%;" _mstalt="645606" _msthash="353"></a>
 </p>
-<p align="center">
-  <strong>NetBox Dashboard (Dark Mode)</strong><br />
-  <img src="docs/media/screenshots/home-dark.png" width="600" alt="NetBox dashboard (dark mode)" />
+<p align="center" dir="auto">
+  <strong _msttexthash="73486335" _msthash="356">NetBox 仪表板（深色模式）</strong><br>
+  <a target="_blank" rel="noopener noreferrer" href="/netbox-community/netbox/blob/develop/docs/media/screenshots/home-dark.png"><img src="/netbox-community/netbox/raw/develop/docs/media/screenshots/home-dark.png" width="600" alt="NetBox 仪表板（深色模式）" style="max-width: 100%;" _mstalt="598585" _msthash="355"></a>
 </p>
-<p align="center">
-  <strong>Prefixes List</strong><br />
-  <img src="docs/media/screenshots/prefixes-list.png" width="600" alt="Prefixes list" />
+<p align="center" dir="auto">
+  <strong _msttexthash="12296882" _msthash="358">前缀列表</strong><br>
+  <a target="_blank" rel="noopener noreferrer" href="/netbox-community/netbox/blob/develop/docs/media/screenshots/prefixes-list.png"><img src="/netbox-community/netbox/raw/develop/docs/media/screenshots/prefixes-list.png" width="600" alt="前缀列表" style="max-width: 100%;" _mstalt="211406" _msthash="357"></a>
 </p>
-<p align="center">
-  <strong>Rack View</strong><br />
-  <img src="docs/media/screenshots/rack.png" width="600" alt="Rack view" />
+<p align="center" dir="auto">
+  <strong _msttexthash="12187656" _msthash="360">机架视图</strong><br>
+  <a target="_blank" rel="noopener noreferrer" href="/netbox-community/netbox/blob/develop/docs/media/screenshots/rack.png"><img src="/netbox-community/netbox/raw/develop/docs/media/screenshots/rack.png" width="600" alt="机架视图" style="max-width: 100%;" _mstalt="115024" _msthash="359"></a>
 </p>
-<p align="center">
-  <strong>Cable Trace</strong><br />
-  <img src="docs/media/screenshots/cable-trace.png" width="600" alt="Cable trace" />
+<p align="center" dir="auto">
+  <strong _msttexthash="15092870" _msthash="362">电缆跟踪</strong><br>
+  <a target="_blank" rel="noopener noreferrer" href="/netbox-community/netbox/blob/develop/docs/media/screenshots/cable-trace.png"><img src="/netbox-community/netbox/raw/develop/docs/media/screenshots/cable-trace.png" width="600" alt="电缆走线" style="max-width: 100%;" _mstalt="151463" _msthash="361"></a>
 </p>
+</article></div>
